@@ -1,4 +1,5 @@
 # Solidity Developer Assistant
+(original hack of the EncodeClub AI bootcamp, precursor of Jiminy)
 
 A dual-assistant chat interface for Solidity development and security auditing, powered by OpenAI and integrated with Ethereum wallet functionality.
 
